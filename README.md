@@ -1,4 +1,4 @@
 aswani521.github.io
 ===================
 
-This is an about me page
+This is the repo for about me page
